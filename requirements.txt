@@ -1,0 +1,10 @@
+# Python dependencies for theBigMan's Challenge solution
+# Install with: pip install -r requirements.txt
+
+web3>=6.0.0
+requests>=2.25.0
+
+# Optional dependencies for enhanced functionality
+ipfshttpclient>=0.8.0  # For decentralized storage
+eth-account>=0.8.0     # For wallet management
+python-decouple>=3.6   # For environment configuration
